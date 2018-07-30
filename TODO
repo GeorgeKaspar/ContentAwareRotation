@@ -1,0 +1,5 @@
+1) quad stored by cols after extract_image_patches -> stored by rows = done
+2) add docs
+3) quad basis fix error = done
+4) Reduce number of iterations
+5) Specify lr for theta and vertices
